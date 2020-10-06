@@ -33,6 +33,10 @@ body {
   font-size: 14px;
 }
 
+h1 {
+  font-family: 'Indelible';
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
