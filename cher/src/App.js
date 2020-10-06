@@ -1,0 +1,20 @@
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1 className="App-heading glitch">
+          Cher
+          <h1 className="App-heading App-heading-presentation glow" role="presentation">
+          </h1>
+          <span className="App-heading-presentation-layer">Cher</span>
+        </h1>
+        <h2>Principal Software Engineer</h2>
+      </header>
+    </div>
+  );
+}
+
+export default App;
