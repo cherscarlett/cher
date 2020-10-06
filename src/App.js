@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <h1 className="App-heading glitch">
           Cher
-          <h1 className="App-heading App-heading-presentation glow" role="presentation">
-          </h1>
+          <span className="App-heading App-heading-presentation glow" role="presentation">
+          </span>
           <span className="App-heading-presentation-layer">Cher</span>
         </h1>
         <h2>Principal Software Engineer</h2>
