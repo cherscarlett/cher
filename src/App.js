@@ -12,6 +12,7 @@ function App() {
           <span className="App-heading-presentation-layer">Cher</span>
         </h1>
         <h2>Principal Software Engineer</h2>
+        <h2>Hot Sauce Maker</h2>
       </header>
     </div>
   );
