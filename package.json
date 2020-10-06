@@ -1,0 +1,12 @@
+{
+  "name": "cher",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "repository": "https://github.com/cherscarlett/cher.git",
+  "author": "Cher <cher@hey.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
