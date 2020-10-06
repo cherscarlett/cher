@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Indelible';
-  src: url("/Indelible.otf") format("opentype");
+  src: url('/Indelible.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }
