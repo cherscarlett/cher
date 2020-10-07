@@ -1,8 +1,7 @@
-// import HotSauce from '../components/HotSauce';
+import HotSauce from '../components/HotSauce';
 
 const Pantry = () => (
-    // <HotSauce />
-    <></>
+    <HotSauce name="Tapatío" />
 );
   
 export default Pantry;

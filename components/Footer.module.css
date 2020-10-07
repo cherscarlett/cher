@@ -1,6 +1,7 @@
 .footer {
     list-style-type: none;
     display: flex;
+    padding: 0;
 }
 
 .footer li a {
@@ -10,10 +11,13 @@
     background-repeat: no-repeat;
     background-position: 50% 50%;
     filter: grayscale(100%) brightness(1.5) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
-    transition: all .6s ease-in-out;
     text-indent: -10000px;
     display: inline-block;
     margin: 0 12px;
+}
+
+.footer li a:hover :global {
+    animation: glitch-2 2s .1s infinite;
 }
 
 .footer li a:hover {

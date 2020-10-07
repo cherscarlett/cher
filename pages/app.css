@@ -58,10 +58,50 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: yellow;
+}
+
 footer {
   margin-top: auto;
 }
 
+#mc_embed_signup {
+  background-color: rgba(0, 0, 0, .4);
+  padding: 8px;
+  font-size: 18px;
+  margin: 8px;
+}
+
+#mc_embed_signup label {
+  display: block;
+}
+
+#mce-EMAIL {
+  margin: 16px;
+  padding: 8px;
+}
+
+#mce-EMAIL::placeholder {
+  font-family: 'VCR';
+}
+
+#mc-embedded-subscribe {
+  padding: 10px;
+  vertical-align: middle;
+  font-family: 'VCR';
+  background: none;
+  color: white;
+}
+
+#mc-embedded-subscribe:hover {
+  background-color: yellow;
+  color: black;
+}
+
+*[aria-hidden] {
+  display: none;
+}
 
 @keyframes glitch {
   1% {
