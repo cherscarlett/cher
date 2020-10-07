@@ -1,0 +1,99 @@
+  .header {
+    animation: fudge 7s ease-in-out alternate infinite;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .heading {
+    font-size: calc(18px + 20vw);
+    font-weight: 100;
+    margin: 0;
+    text-shadow: none;
+    position: relative;
+    color: transparent;
+    order: 2;
+    margin-top: 15vh;
+  }
+
+  .heading::before, .headingPresentation::before {
+    content: 'Cher';
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-shadow: -5px 0 #ab43b0;
+    background: transparent;
+    color: transparent;
+    top: 0;
+    animation: noise-1 3s linear infinite alternate-reverse, glitch 5s 5.05s infinite;
+    z-index: 1;
+    transform: translateX(-2px);
+    filter: blur(2px);
+    opacity: .4;
+    mix-blend-mode: color-burn;
+  }
+  
+  .headingPresentation {
+    font-size: inherit;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .headingPresentationLayer {
+    position: absolute;
+    z-index: 2;
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-shadow: none;
+  }
+
+  .heading::after, .headingPresentation::after {
+    content: 'Cher';
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-shadow: -5px 0 #f7f558;
+    background: transparent;
+    color: transparent;
+    top: 0;
+    animation: noise-2 3s linear infinite alternate-reverse, glitch 5s 5s infinite;
+    transform: translateX(15px);
+    filter: blur(2px);
+    opacity: .4;
+    mix-blend-mode: color-burn;
+  }
+
+  .subheading {
+    order: 3;
+    font-size: calc(14px + 1vw);
+  }
+
+  .nav {
+    order: 1;
+    margin-left: auto;
+  }
+
+  .nav ul {
+      list-style-type: none;
+      display: flex;
+  }
+  .nav ul li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 2rem;
+  }
+  .nav ul li a {
+    font-size: calc(16px + 1.2vw);
+    font-weight: bold;
+    display: block;
+    height: 100%;
+    line-height: 2rem;
+  }

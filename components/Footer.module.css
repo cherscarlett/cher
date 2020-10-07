@@ -1,0 +1,49 @@
+.footer {
+    list-style-type: none;
+    display: flex;
+}
+
+.footer li a {
+    height: 20px;
+    width: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    filter: grayscale(100%) brightness(1.5) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+    transition: all .6s ease-in-out;
+    text-indent: -10000px;
+    display: inline-block;
+    margin: 0 12px;
+}
+
+.footer li a:hover {
+    filter: grayscale(0%) brightness(1.5) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+}
+
+.footer .twitter a {
+    background-image: url(/twitter.svg);
+    filter: grayscale(100%) brightness(2.2) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+}
+
+.footer .linkedin a {
+    background-image: url(/linkedin.svg);
+    filter: grayscale(100%) brightness(2.2) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+}
+
+.footer .github a {
+    background-image: url(/github.svg);
+}
+
+.footer .instagram a {
+    background-image: url(/instagram.svg);
+}
+
+.footer .heatonist a {
+    background-image: url(/heatonist.svg);
+    filter: grayscale(100%) brightness(3) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+}
+
+.footer .twitch a {
+    background-image: url(/twitch.svg);
+    filter: grayscale(100%) brightness(4) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+}
