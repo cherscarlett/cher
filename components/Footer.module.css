@@ -42,6 +42,12 @@
     background-image: url(/instagram.svg);
 }
 
+.footer .youtube a {
+    background-image: url(/youtube.svg);
+    filter: grayscale(100%) brightness(2) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);
+
+}
+
 .footer .heatonist a {
     background-image: url(/heatonist.svg);
     filter: grayscale(100%) brightness(3) drop-shadow(-1px 1px 0 black) drop-shadow(1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow( -1px -1px 0 black);

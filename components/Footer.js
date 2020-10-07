@@ -16,6 +16,9 @@ const Footer = () => (
             <li className={styles.instagram}>
                 <Link href="//instagram.com/cher.dev">instagram/@cher.dev</Link>
             </li>
+            <li className={styles.youtube}>
+                <Link href="//youtube.com/c/Cherpx">youtube/@cherpx</Link>
+            </li>
             <li className={styles.twitch}>
                 <Link href="//twitch.tv/ch_r">twitch/@ch_r</Link>
             </li>
