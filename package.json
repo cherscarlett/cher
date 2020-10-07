@@ -16,7 +16,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "start": "next start",
+    "start": "next start -p $PORT",
     "build": "next build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
