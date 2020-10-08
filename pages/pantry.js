@@ -490,7 +490,7 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "Dave's Gourmey",
+      "brand": "Dave's Gourmet",
       "name": "Insanity",
       "shu": null,
       "location": "Fridge",
