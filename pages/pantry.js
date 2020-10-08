@@ -1690,6 +1690,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Torchbearer",
+      "name": "Garlic Reaper",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Torchbearer",
+      "name": "Headless Horseradish",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Truff",
       "name": "Black Truffle",
       "shu": null,
