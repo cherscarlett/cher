@@ -21,7 +21,8 @@ const Things = () => (
             {title: "Brainfork", url: "https://anchor.fm/brainfork/episodes/Episode-3-Bipolar-Disorder-in-the-words-of-Cher-Scarlett-e23jd4"},
             {title: "No CS Degree", url: "https://www.nocsdegree.com/falling-down-and-getting-back-up-with-the-help-of-code/"},
             {title: "Microsoft Build", url: "https://channel9.msdn.com/Events/Build/2018/THR2403"},
-            {title: "Lipstick Nerds", url: "https://www.youtube.com/watch?v=q_EABw0PCOI"}
+            {title: "Lipstick Nerds #22", url: "https://www.youtube.com/watch?v=q_EABw0PCOI"},
+            {title: "Lipstick Nerds #13", url: "https://www.youtube.com/watch?v=NYKMbnRPBiI"}
         ]}, {name: 'Videos', items: [
             {title: "A little guppy world", url: "https://www.youtube.com/watch?v=xqgVmxwMltc"},
             {title: "Lush chases Reghar across the map", url: "https://www.twitch.tv/videos/40623703"},
