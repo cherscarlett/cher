@@ -821,7 +821,7 @@ const hotSauces = [
       "brand": "Huy Fong Foods",
       "name": "Tương Ớt Sriracha",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
