@@ -1,6 +1,14 @@
-const HotSauce = ({name, img, url, shu, rating}) => (
+const HotSauce = ({brand, name, location, img, url, shu, rating}) => (
     <>
-        List of Hot Sauce coming soon!
+        <td>
+            {brand}
+        </td>
+        <td>
+            {name}
+        </td>
+        <td>
+            {location || "Pantry"}
+        </td>
     </>
 );
 

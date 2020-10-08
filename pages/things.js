@@ -2,7 +2,8 @@ import ListOfThings from '../components/ListOfThings';
 
 const Things = () => (
     <>
-        <ListOfThings things={[{name: 'Articles', items: [
+        <ListOfThings things={[
+            {name: 'Articles', items: [
             {title: "Creating A Spotify-Powered App Using Nuxt.js", url: "https://www.smashingmagazine.com/2019/03/spotify-app-vue-nuxt-javascript/"},
             {title: "Proganda & Other Lies We Tell", url: "https://medium.com/@cherp/propaganda-other-lies-we-tell-4325240379f7"},
             {title: "Starbucks: Gulps Away From Equality", url: "https://medium.com/@cherp/starbucks-gulps-away-from-equality-6892e972606b"},
