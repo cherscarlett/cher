@@ -178,7 +178,7 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "Black-Eyed Susan Spico Co",
+      "brand": "Black-Eyed Susan Spice Co",
       "name": "Death by Chcolate",
       "shu": null,
       "location": "Fridge",
