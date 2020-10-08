@@ -819,7 +819,7 @@ const hotSauces = [
     },
     {
       "brand": "Huy Fong Foods",
-      "name": "Tuong Ot Sriracha",
+      "name": "Tương Ớt Sriracha",
       "shu": null,
       "location": null,
       "url": null,
