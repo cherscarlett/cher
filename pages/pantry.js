@@ -1658,6 +1658,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "The Rib Man",
+      "name": "Judas is Scary Hot",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "The Rib Man",
+      "name": "Bacon Holy Fuck",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "The Spicy Shark",
       "name": "Megalodon",
       "shu": null,
