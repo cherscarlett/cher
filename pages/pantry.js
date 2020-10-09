@@ -659,7 +659,15 @@ const hotSauces = [
     },
     {
       "brand": "Friendly Fire",
-      "name": "Guava Habanero",
+      "name": "Guava + Habanero",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "The General's",
+      "name": "Red Dead Grenade",
       "shu": null,
       "location": null,
       "url": null,
