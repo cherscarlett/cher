@@ -307,7 +307,7 @@ const hotSauces = [
     },
     {
       "brand": "Cajun Nation",
-      "name": "Cajun Heat",
+      "name": "Cajun Heat - Garlic Pepper",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1170,6 +1170,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Pepplish Provisions",
+      "name": "Blackberry Rhubarb Thyme",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Pirate's Lantern",
       "name": "Original Bajan Pepper Sauce",
       "shu": null,
@@ -1814,6 +1822,15 @@ const hotSauces = [
       "name": "Gochujang",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Wildbrine",
+      "name": "Spicy Kimchi Sriracha",
+      "shu": null,
+      "location": "Fridge",
+    
       "url": null,
       "img": null
     },
