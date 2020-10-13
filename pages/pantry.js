@@ -834,6 +834,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Iggy's",
+      "name": "Raw Fermented Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Iris Lune",
       "name": "Eclipse",
       "shu": null,
