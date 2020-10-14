@@ -1538,6 +1538,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "STOKED",
+      "name": "Pumpkin Spice Habtté",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Tabañero",
       "name": "Spicy Agave",
       "shu": null,
