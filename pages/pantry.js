@@ -499,7 +499,7 @@ const hotSauces = [
     },
     {
       "brand": "Dawson's Hot Sauce",
-      "name": "Shawarma Sauce",
+      "name": "Shawarma",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -524,6 +524,14 @@ const hotSauces = [
     {
       "brand": "Dawson's Hot Sauce",
       "name": "Chocolate Chili",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Dawson's Hot Sauce",
+      "name": "Sichuan Ghost Pepper",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -732,6 +740,14 @@ const hotSauces = [
     {
       "brand": "Heartbeat Hot Sauce",
       "name": "Blueberry Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heartbreaking Dawns",
+      "name": "Mango Habanero",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1053,7 +1069,7 @@ const hotSauces = [
       "brand": "Midsummer",
       "name": "3 - Limited Anniversary Edition",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1061,7 +1077,7 @@ const hotSauces = [
       "brand": "Midsummer",
       "name": "NB19",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
