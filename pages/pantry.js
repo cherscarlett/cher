@@ -226,6 +226,30 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Brew and Feed",
+      "name": "Mango Pineapple Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Brew and Feed",
+      "name": "Coconut & Ghost Chile",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Brew and Feed",
+      "name": "Garlic Balsamic",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Brooklyn Delhi",
       "name": "Guntur Sannam Pepper",
       "shu": null,
