@@ -1891,6 +1891,15 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Yamajirushi",
+      "name": "Yuzu-It",
+      "shu": null,
+      "location": "Fridge",
+    
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Yellowbird",
       "name": "Ghost",
       "shu": null,
