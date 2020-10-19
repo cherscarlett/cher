@@ -2052,6 +2052,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Yeah Boy",
+      "name": "Jalapeño",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Yeah Boy",
+      "name": "Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Yellowbird",
       "name": "Ghost",
       "shu": null,
