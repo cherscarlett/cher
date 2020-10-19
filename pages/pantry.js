@@ -50,6 +50,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Avila Gorilla",
+      "name": "Pineapple Mango",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Ballyhoo",
       "name": "Heat Merchant",
       "shu": null,
@@ -202,6 +210,38 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Bondage Hot Sauce",
+      "name": "Ghosted",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bondage Hot Sauce",
+      "name": "This is my revenge",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bondage Hot Sauce",
+      "name": "Because you cheated",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bondage Hot Sauce",
+      "name": "Still Single...",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Bravado Sauce Co",
       "name": "Ghost Pepper & Blueberry",
       "shu": null,
@@ -244,6 +284,14 @@ const hotSauces = [
     {
       "brand": "Brew and Feed",
       "name": "Garlic Balsamic",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Broho Sauce Co.",
+      "name": "Bohjo",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -346,6 +394,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Cantina Royal",
+      "name": "Tamaulipeka",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Captain Foods",
       "name": "Sharkbite",
       "shu": null,
@@ -428,6 +484,14 @@ const hotSauces = [
     {
       "brand": "Cooper's Small batch",
       "name": "Leche Diablesa",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Craic",
+      "name": "The Golden Pumpkin",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -698,16 +762,32 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "The General's",
-      "name": "Red Dead Grenade",
+      "brand": "Gochu Fam",
+      "name": "Gochujang",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Grand Traverse Sauce Co.",
+      "name": "The Siren",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
     {
       "brand": "Green Belly Foods",
       "name": "Yellow Belly",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "HAB",
+      "name": "Spicy Sweet Soy",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -732,6 +812,14 @@ const hotSauces = [
     {
       "brand": "Häxan Hot Sauce",
       "name": "Pumpkin Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Häxan Hot Sauce",
+      "name": "Smoky Coffee Mole",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -779,6 +867,14 @@ const hotSauces = [
     },
     {
       "brand": "Heatonist",
+      "name": "Classic",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heatonist",
       "name": "Classic Garlic Fresno",
       "shu": null,
       "location": null,
@@ -790,6 +886,22 @@ const hotSauces = [
       "name": "The Last Dab",
       "shu": null,
       "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heatonist",
+      "name": "Los Calientes",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heatonist",
+      "name": "Los Calientes Rojo",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -894,6 +1006,14 @@ const hotSauces = [
       "name": "The OG",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Kaitaia",
+      "name": "Fire",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -1309,7 +1429,15 @@ const hotSauces = [
       "brand": "Sabarac",
       "name": "Fermented Watermelon",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sacred Sauce",
+      "name": "Original Hot Sauce",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1570,6 +1698,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Steel City Sauce Co.",
+      "name": "Jade Jaguar",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Sticker Mule",
       "name": "Mule Sauce",
       "shu": null,
@@ -1686,6 +1822,14 @@ const hotSauces = [
       "name": "Hotter Hot Sauce",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "The General's",
+      "name": "Red Dead Grenade",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -1868,6 +2012,14 @@ const hotSauces = [
     {
       "brand": "Valentina",
       "name": "Black Label",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Waha Wera",
+      "name": "Kiwifruit & Habanero",
       "shu": null,
       "location": null,
       "url": null,
