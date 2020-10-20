@@ -1714,7 +1714,7 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "STOKED",
+      "brand": "STOKED!",
       "name": "Pumpkin Spice Habtté",
       "shu": null,
       "location": "Fridge",
@@ -1722,7 +1722,7 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "STOKED",
+      "brand": "STOKED!",
       "name": "Silence is Marygolden",
       "shu": null,
       "location": "Fridge",
