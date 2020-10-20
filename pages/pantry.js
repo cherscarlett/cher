@@ -1722,6 +1722,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "STOKED",
+      "name": "Silence is Marygolden",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Tabañero",
       "name": "Spicy Agave",
       "shu": null,
