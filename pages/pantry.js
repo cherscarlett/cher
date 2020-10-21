@@ -42,6 +42,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Angry Goat Pepper Company",
+      "name": "Hippy Dippy Green",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Ass Kickin'",
       "name": "Wasabi",
       "shu": null,
@@ -650,6 +658,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Double Take Salsa Co",
+      "name": "Scotch Bonnet Mustard",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Eat Beer Hot Sauce",
       "name": "Yellow Thai Racer",
       "shu": null,
@@ -1026,6 +1042,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Karma Sauce",
+      "name": "Extreme Karma",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Keith's",
       "name": "Chicken Sauce",
       "shu": null,
@@ -1236,6 +1260,14 @@ const hotSauces = [
     {
       "brand": "Midsummer X Omnipollo",
       "name": "Fatamorgana",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Model Citizen",
+      "name": "Falcor",
       "shu": null,
       "location": null,
       "url": null,
@@ -1636,6 +1668,14 @@ const hotSauces = [
     {
       "brand": "Small Axe Peppers",
       "name": "Habanero Ginger",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Small Axe Peppers",
+      "name": "California Raisin",
       "shu": null,
       "location": "Fridge",
       "url": null,
