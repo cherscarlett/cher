@@ -1122,6 +1122,46 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Marie Sharp's",
+      "name": "Beware",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marie Sharp's",
+      "name": "Pure Love Pineapple",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marie Sharp's",
+      "name": "No Wimps Allowed",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marie Sharp's",
+      "name": "Pure Mango",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marie Sharp's",
+      "name": "Belizean Heat",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Marshall's Haute Sauce",
       "name": "Birdseye Charred Chive Dulse",
       "shu": null,
@@ -1172,6 +1212,22 @@ const hotSauces = [
     {
       "brand": "Melinda's",
       "name": "Pizza Hot Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Melinda's",
+      "name": "Ghost Pepper Wing Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Melinda's",
+      "name": "Wing Sauce",
       "shu": null,
       "location": "Fridge",
       "url": null,
