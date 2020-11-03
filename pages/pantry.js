@@ -1794,6 +1794,30 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Spicy Grrrls",
+      "name": "Basic Bitch",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Spicy Grrrls",
+      "name": "Too Haunt to Handle",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Spicy Grrrls",
+      "name": "Cajun Queen",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Steel City Sauce Co.",
       "name": "Jade Jaguar",
       "shu": null,
