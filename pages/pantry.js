@@ -250,6 +250,38 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Bottle Rocket Hot Sauce Co.",
+      "name": "Verde",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bottle Rocket Hot Sauce Co.",
+      "name": "Hot",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bottle Rocket Hot Sauce Co.",
+      "name": "Hotter",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bottle Rocket Hot Sauce Co.",
+      "name": "Hottest",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Bravado Sauce Co",
       "name": "Ghost Pepper & Blueberry",
       "shu": null,
