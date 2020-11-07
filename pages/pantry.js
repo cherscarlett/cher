@@ -1194,6 +1194,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Marie Sharp's",
+      "name": "Pure Grapefruit",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Marshall's Haute Sauce",
       "name": "Birdseye Charred Chive Dulse",
       "shu": null,
@@ -1910,6 +1918,14 @@ const hotSauces = [
       "name": "Buffalo",
       "shu": null,
       "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Tacticalories",
+      "name": "Athame",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
