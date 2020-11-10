@@ -1890,6 +1890,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "STOKED!",
+      "name": "Berry Spooky",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Tabañero",
       "name": "Spicy Agave",
       "shu": null,
