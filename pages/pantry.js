@@ -402,6 +402,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Butterfly Bakery of Vermont",
+      "name": "Pink Peppercorn Gin",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Cajohns",
       "name": "Magma",
       "shu": null,
@@ -502,6 +510,14 @@ const hotSauces = [
       "name": "Chili Lime",
       "shu": null,
       "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Clark + Hopkins",
+      "name": "Assam",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1092,6 +1108,22 @@ const hotSauces = [
     {
       "brand": "Keith's",
       "name": "Burger Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lechosa's",
+      "name": "Carolina Madness",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lechosa's",
+      "name": "Peach Habanero",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -2116,6 +2148,22 @@ const hotSauces = [
     {
       "brand": "Torchbearer",
       "name": "Headless Horseradish",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Tradición Peruana",
+      "name": "Aji Amarillo",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Tradición Peruana",
+      "name": "Rocoto",
       "shu": null,
       "location": "Fridge",
       "url": null,
