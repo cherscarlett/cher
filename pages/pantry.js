@@ -1530,6 +1530,38 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Pulp",
+      "name": "Fireprince",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Pulp",
+      "name": "Hungarian Wax",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Pulp",
+      "name": "Roasted Red",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Pulp",
+      "name": "Jimmy Nardello",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Queen Majesty",
       "name": "Charcoal Ghost",
       "shu": null,
