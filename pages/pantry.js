@@ -434,6 +434,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Cajun Nation",
+      "name": "Louisiana Hot Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Callahan's",
       "name": "Poblano Green",
       "shu": null,
