@@ -1290,6 +1290,30 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Marshall's Haute Sauce",
+      "name": "Bird's Eye Basil",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marshall's Haute Sauce",
+      "name": "Cranberry Red Jalapeño",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Marshall's Haute Sauce",
+      "name": "Caramelized Scorpion Ghost",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Melinda's",
       "name": "Pizza Hot Sauce",
       "shu": null,
@@ -1508,6 +1532,14 @@ const hotSauces = [
     {
       "brand": "Pepplish Provisions",
       "name": "Blackberry Rhubarb Thyme",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Pepper's",
+      "name": "Georgia Peach and Vidalia Onion",
       "shu": null,
       "location": "Fridge",
       "url": null,
