@@ -930,6 +930,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Heartbeat Hot Sauce",
+      "name": "Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heartbeat Hot Sauce",
+      "name": "Jalapeño",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Heartbreaking Dawns",
       "name": "Mango Habanero",
       "shu": null,
@@ -1018,6 +1034,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Hotlanta",
+      "name": "Original Hot Sauce",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Humble House",
       "name": "Ancho & Morita",
       "shu": null,
@@ -1028,6 +1052,14 @@ const hotSauces = [
     {
       "brand": "Humble House",
       "name": "Habanero & Aji Amarillo",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Humble House",
+      "name": "Guajillo & Red Jalapeno",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1148,6 +1180,38 @@ const hotSauces = [
     {
       "brand": "Lucky Dog",
       "name": "Year of the Dog",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Hell Hound",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Dia Del Perro",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Pink Label",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Brown Label",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1366,6 +1430,14 @@ const hotSauces = [
       "name": "Naga Jolokia",
       "shu": null,
       "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Mellow Habanero",
+      "name": "Yuzu Heaven",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
