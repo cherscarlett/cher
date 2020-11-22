@@ -883,6 +883,14 @@ const hotSauces = [
     },
     {
       "brand": "Häxan Hot Sauce",
+      "name": "Cranberry Ghost",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Häxan Hot Sauce",
       "name": "Pumpkin Habanero",
       "shu": null,
       "location": "Fridge",
