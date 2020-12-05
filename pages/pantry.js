@@ -283,6 +283,14 @@ const hotSauces = [
     },
     {
       "brand": "Bravado Sauce Co",
+      "name": "Pineapple & Habanero",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Bravado Sauce Co",
       "name": "Ghost Pepper & Blueberry",
       "shu": null,
       "location": null,
@@ -1955,6 +1963,14 @@ const hotSauces = [
     },
     {
       "brand": "Small Axe Peppers",
+      "name": "Chicago Red",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Small Axe Peppers",
       "name": "California Raisin",
       "shu": null,
       "location": "Fridge",
@@ -2284,6 +2300,14 @@ const hotSauces = [
     {
       "brand": "Torchy's Tacos",
       "name": "Diablo Hot Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Torchbearer",
+      "name": "Habanero Evil",
       "shu": null,
       "location": "Fridge",
       "url": null,
