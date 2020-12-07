@@ -250,6 +250,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Born to Hula",
+      "name": "Smokin' Pineapple Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Bottle Rocket Hot Sauce Co.",
       "name": "Verde",
       "shu": null,
@@ -842,6 +850,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Gator Hammock",
+      "name": "Gator Sauce",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Gochu Fam",
       "name": "Gochujang",
       "shu": null,
@@ -1124,6 +1140,14 @@ const hotSauces = [
     {
       "brand": "J's Small Batch",
       "name": "The OG",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "K-Sauce",
+      "name": "K-6",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1530,6 +1554,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Mountain Dew",
+      "name": "Joel Embiid's Hot Habanero",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "NW Elixirs",
+      "name": "Verde Hott",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "OG Hot Sauce",
       "name": "Hot & Spicy",
       "shu": null,
@@ -1658,6 +1698,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Primo's Peppers",
+      "name": "Swampadelic",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Pulp",
       "name": "Fireprince",
       "shu": null,
@@ -1738,8 +1786,24 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Rising Sun",
+      "name": "Apple Cinnamon Chipotle",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Rocky's",
       "name": "Garlic",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Rocky's",
+      "name": "Lime",
       "shu": null,
       "location": null,
       "url": null,
@@ -2420,6 +2484,14 @@ const hotSauces = [
     {
       "brand": "Valentina",
       "name": "Black Label",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Volcanic Peppers",
+      "name": "Ponzu Sauce",
       "shu": null,
       "location": null,
       "url": null,
