@@ -1866,6 +1866,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Sabarac",
+      "name": "Japanese Miso",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Sacred Sauce",
       "name": "Original Hot Sauce",
       "shu": null,
