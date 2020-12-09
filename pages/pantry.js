@@ -106,6 +106,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Bend Sauce",
+      "name": "Chipotle",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Bertie's",
       "name": "Scorpion",
       "shu": null,
@@ -995,6 +1003,14 @@ const hotSauces = [
     },
     {
       "brand": "Heatonist",
+      "name": "Classic Pepper X",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heatonist",
       "name": "Classic Garlic Fresno",
       "shu": null,
       "location": null,
@@ -1204,6 +1220,38 @@ const hotSauces = [
     {
       "brand": "Lechosa's",
       "name": "Peach Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Green Label",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Red Label",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "El Perro Afortunado",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Lucky Dog",
+      "name": "Black Label",
       "shu": null,
       "location": "Fridge",
       "url": null,
