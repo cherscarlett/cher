@@ -1154,6 +1154,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Island Creek Oysters",
+      "name": "Row 34",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "J's Small Batch",
       "name": "The OG",
       "shu": null,
