@@ -923,6 +923,14 @@ const hotSauces = [
     },
     {
       "brand": "Häxan Hot Sauce",
+      "name": "Cherry Bomb",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Häxan Hot Sauce",
       "name": "Pumpkin Habanero",
       "shu": null,
       "location": "Fridge",
@@ -2592,6 +2600,14 @@ const hotSauces = [
       "shu": null,
       "location": "Fridge",
     
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Yeah Boy",
+      "name": "Bluebanero",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
