@@ -1875,6 +1875,14 @@ const hotSauces = [
     },
     {
       "brand": "Sabarac",
+      "name": "Fermented Cherry Chipotle",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sabarac",
       "name": "Fermented Watermelon",
       "shu": null,
       "location": "Fridge",
