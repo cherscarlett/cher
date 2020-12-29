@@ -34,6 +34,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Anderson and Son Pepper Co",
+      "name": "Don't Touch the Baby",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Angry Goat Pepper Company",
       "name": "Purple Hippo",
       "shu": null,
@@ -595,9 +603,25 @@ const hotSauces = [
     },
     {
       "brand": "Culley's",
+      "name": "Lucky 13",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Culley's",
       "name": "Fire Water",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Culley's",
+      "name": "Fxck Me That's Hot",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -794,6 +818,30 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "FireFlower",
+      "name": "Local Haunt",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "FireFlower",
+      "name": "Hotsy-Totsy",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "FireFlower",
+      "name": "Main Squeeze",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Formosa Hot Sauce",
       "name": "Roasted Peppers",
       "shu": null,
@@ -898,6 +946,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Halesite",
+      "name": "Habanero",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Hank's",
       "name": "Iceman",
       "shu": null,
@@ -940,6 +996,14 @@ const hotSauces = [
     {
       "brand": "Häxan Hot Sauce",
       "name": "Smoky Coffee Mole",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Heartbeat Hot Sauce x Dustin Poirier",
+      "name": "Louisiana Style",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1084,6 +1148,30 @@ const hotSauces = [
     {
       "brand": "Hooters",
       "name": "Original Hot Sauce",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Winter",
+      "name": "Santa Fe Grande",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Winter",
+      "name": "Aleppo",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Winter",
+      "name": "Hinkelhatz",
       "shu": null,
       "location": null,
       "url": null,
@@ -1238,6 +1326,14 @@ const hotSauces = [
       "name": "Peach Habanero",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Louisiana",
+      "name": "Red Rooster",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -1589,7 +1685,7 @@ const hotSauces = [
       "brand": "Midsummer",
       "name": "みお",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1597,7 +1693,15 @@ const hotSauces = [
       "brand": "Midsummer X Omnipollo",
       "name": "Fatamorgana",
       "shu": null,
-      "location": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Midsummer X Omnipollo",
+      "name": "Noa Pecan Mud Cake",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1738,6 +1842,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Pili Hunters",
+      "name": "Buyo",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Pirate's Lantern",
       "name": "Original Bajan Pepper Sauce",
       "shu": null,
@@ -1802,6 +1914,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Queen Creek Olive Mill",
+      "name": "Venom",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Queen Majesty",
       "name": "Charcoal Ghost",
       "shu": null,
@@ -1842,8 +1962,24 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "RADS",
+      "name": "Lemon Pepper Garlic",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Red Clay",
       "name": "Verde",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ring of Fire",
+      "name": "Original Habanero",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1902,6 +2038,38 @@ const hotSauces = [
       "name": "Original Hot Sauce",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sakari Farms",
+      "name": "Cascadia Lava",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sakari Farms",
+      "name": "Sakariacha",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sakari Farms",
+      "name": "Fire Roasted",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Sakari Farms",
+      "name": "Salsa Morada",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -2202,6 +2370,14 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Splat",
+      "name": "Red Serrano",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Steel City Sauce Co.",
       "name": "Jade Jaguar",
       "shu": null,
@@ -2404,6 +2580,14 @@ const hotSauces = [
     {
       "brand": "The Rib Man",
       "name": "Bacon Holy Fuck",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "The Show",
+      "name": "Greenshow",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -2646,6 +2830,14 @@ const hotSauces = [
     {
       "brand": "Yellowbird",
       "name": "Agave Sriracha",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Yellowbird",
+      "name": "Super Serronic",
       "shu": null,
       "location": "Fridge",
       "url": null,
