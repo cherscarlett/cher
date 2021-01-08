@@ -914,6 +914,46 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Ghost Scream",
+      "name": "Green Reaper Special Reserve",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ghost Scream",
+      "name": "El Verde Limited Edition",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ghost Scream",
+      "name": "Ghost Truffle",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ghost Scream",
+      "name": "Hot",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ghost Scream",
+      "name": "Vindaloo Curry",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Gochu Fam",
       "name": "Gochujang",
       "shu": null,
@@ -924,6 +964,30 @@ const hotSauces = [
     {
       "brand": "Grand Traverse Sauce Co.",
       "name": "The Siren",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Grandpa Guero's Hot Sauce",
+      "name": "Serrano",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Grandpa Guero's Hot Sauce",
+      "name": "Smoked Sarit Gat",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Grandpa Guero's Hot Sauce",
+      "name": "Chipotle",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1130,6 +1194,30 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "High Desert Sauce Co",
+      "name": "Spicy Adobo",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "High Desert Sauce Co",
+      "name": "Tikk-hot Masala",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "High Desert Sauce Co",
+      "name": "Reapers Fuzzy Navel",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "High River Sauces",
       "name": "Rogue",
       "shu": null,
@@ -1150,6 +1238,46 @@ const hotSauces = [
       "name": "Original Hot Sauce",
       "shu": null,
       "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Heads",
+      "name": "Hot Chocolate",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Heads",
+      "name": "Revolutionary",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Heads",
+      "name": "That's My Jam",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Heads",
+      "name": "Hot Slice",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Hot Heads",
+      "name": "Peach Cobbler",
+      "shu": null,
+      "location": "Fridge",
       "url": null,
       "img": null
     },
@@ -1658,6 +1786,46 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Mic's Chilli",
+      "name": "Emerald Jalapeño",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Mic's Chilli",
+      "name": "Naga Knockdown",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Mic's Chilli",
+      "name": "Trouble Trinidad",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Mic's Chilli",
+      "name": "Voodoo Reaper",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Mic's Chilli",
+      "name": "Inferno Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Midsummer",
       "name": "Flagship",
       "shu": null,
@@ -1732,6 +1900,30 @@ const hotSauces = [
     {
       "brand": "NW Elixirs",
       "name": "Verde Hott",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Newks",
+      "name": "Hot Pepper Sauce",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Newks",
+      "name": "Mild Pepper Sauce",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Noel's",
+      "name": "Serrano & Mango",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -1838,6 +2030,30 @@ const hotSauces = [
       "name": "Georgia Peach and Vidalia Onion",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Peril Hot Sauce",
+      "name": "Pineapple Curry",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Peril Hot Sauce",
+      "name": "Harvest's End",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Peril Hot Sauce",
+      "name": "Dagon",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -1954,10 +2170,10 @@ const hotSauces = [
       "img": null
     },
     {
-      "brand": "Ravenholm Spices",
-      "name": "Nope V3",
+      "brand": "R.J. Iguanas",
+      "name": "Everyday Hot Sauce",
       "shu": null,
-      "location": "Fridge",
+      "location": null,
       "url": null,
       "img": null
     },
@@ -1970,8 +2186,48 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Ravenholm Spices",
+      "name": "Nope V3",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Red Clay",
       "name": "Verde",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ricante",
+      "name": "OG Mango Caliente",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ricante",
+      "name": "Fire Melons",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ricante",
+      "name": "Manzana Encendida",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Ricante",
+      "name": "Piña Dulce",
       "shu": null,
       "location": "Fridge",
       "url": null,
@@ -2156,6 +2412,14 @@ const hotSauces = [
     {
       "brand": "Seed Ranch",
       "name": "Umami Reserve",
+      "shu": null,
+      "location": null,
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Seed Ranch",
+      "name": "Truffle Hound",
       "shu": null,
       "location": null,
       "url": null,
@@ -2366,6 +2630,14 @@ const hotSauces = [
       "name": "Cajun Queen",
       "shu": null,
       "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Spicy Ninja Sauce",
+      "name": "Mauna Kea Magma",
+      "shu": null,
+      "location": null,
       "url": null,
       "img": null
     },
@@ -2778,11 +3050,18 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "White Whale Sauces",
+      "name": "Limonhello",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Wildbrine",
       "name": "Spicy Kimchi Sriracha",
       "shu": null,
       "location": "Fridge",
-    
       "url": null,
       "img": null
     },
