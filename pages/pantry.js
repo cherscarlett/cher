@@ -690,6 +690,22 @@ const hotSauces = [
       "img": null
     },
     {
+      "brand": "Da Kine",
+      "name": "Hot Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
+      "brand": "Da Kine",
+      "name": "Hot Soy Sauce",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
+    },
+    {
       "brand": "Dave's Gourmet",
       "name": "Insanity",
       "shu": null,
