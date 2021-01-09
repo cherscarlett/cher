@@ -3449,6 +3449,14 @@ const hotSauces = [
       "location": "Fridge",
       "url": null,
       "img": null
+    },
+    {
+      "brand": "Zim's Sauces",
+      "name": "KIKSAS",
+      "shu": null,
+      "location": "Fridge",
+      "url": null,
+      "img": null
     }
   ]
 const fridgeCount = hotSauces.filter(sauce => sauce.location === "Fridge").length;
